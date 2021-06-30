@@ -1,0 +1,1 @@
+Sahibinden.com üzerinden satışa sunulan BMW 3 marka ve modelli aracın "seri, model, yil, yakit, vites, km, renk, motor_gucu, motor_hacim, kasa_tipi ve fiyat" özelliklerini kullanarak daha önceden satışa çıkarılmış araçlar modellenerek daha sonra satışa sunulacak araçlar için tahmini fiyat öneren bir uygulamadır.
